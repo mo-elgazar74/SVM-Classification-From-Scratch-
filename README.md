@@ -1,4 +1,4 @@
-# 🧐 SVM Classification Project
+# SVM Classification Project
 
 This project demonstrates binary classification using **Support Vector Machines (SVM)** in Python. A custom modular class has been created to manage training, evaluation, and visualization. The notebook includes detailed data visualizations, model comparisons, and decision boundary plots.
 
